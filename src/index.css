@@ -1,0 +1,40 @@
+.active {
+    color: #f30707;
+    text-decoration: none;
+    }
+
+    .noactive{
+        color: #030303; 
+    }
+
+    .menu ul li a{
+        margin: 10px;
+        text-decoration: none;
+
+    }
+
+    .imagen-hero{
+        text-align: center;
+        margin-top: 75px;
+    }
+    
+    .imagen-hero img{
+        width: 450px;
+    }
+
+    .icono-pikachu{
+        width: 35px;
+    }
+
+    .seleccion{
+        text-align: center;
+    }
+
+    .selector{
+    width: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+    }
+
+    
+    
